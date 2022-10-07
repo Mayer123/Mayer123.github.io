@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**Conference Papers (2022)**
 
-{% include base_path %}
+* Open-domain Question Answering via Chain of Reasoning over Heterogeneous Knowledge <br>
+  **<u>Kaixin Ma*</u>**, Hao Cheng*, Xiaodong Liu, Eric Nyberg, Jianfeng Gao <br>
+  [Findings of EMNLP 2022] <br>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Coalescing Global and Local Information for Procedural Text Understanding <br>
+  **<u>Kaixin Ma</u>**, Filip Ilievski, Jonathan Francis, Eric Nyberg, Alessandro Oltramari <br>
+  [COLING 2022] \[[pdf](/files/COLING_camera_ready.pdf)\] \[[code](https://github.com/Mayer123/CGLI)\]
