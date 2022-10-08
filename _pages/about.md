@@ -14,13 +14,13 @@ My primary research interest lies in question answering, commonsense reasoning a
 
 Experience 
 ======
-* Microsoft Research, Redmond, WA
-  * Summer 2021, Summer 2022
+* **Microsoft Research**, Redmond, WA
+  * May 2021 - August 2021, May 2022 - August 2022
   * Research Intern at Deep Learning Group
-  * Mentor: Hao Cheng
+  * Mentor: [Hao Cheng](https://sites.google.com/site/hcheng2site)
 
-* Bosch Research and Technology Center, Pittsburgh, PA
-  * Summer 2019, Summer 2020
+* **Bosch Research and Technology Center**, Pittsburgh, PA
+  * May 2019 - August 2019, May 2020 - August 2020
   * Research Intern at Human-Machine Collaboration Team 
-  * Mentor: Alessandro Oltramari
+  * Mentor: [Alessandro Oltramari](https://www.bosch.com/research/know-how/research-experts/alessandro-oltramari-ph-d/)
 
