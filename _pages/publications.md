@@ -42,7 +42,7 @@ author_profile: true
   COIN@EMNLP 2019 \[[pdf](https://aclanthology.org/D19-6003.pdf)\] \[[code](https://github.com/Mayer123/HyKAS)\]
 
 * Bend but Don’t Break? Multi-Challenge Stress Test for QA Models <br>
-  Hemant Pugaliya*, James Route*, **<u>Kaixin Ma</u>**, Yixuan Geng, Eric Nyberg <br>
+  Hemant Pugaliya\*, James Route\*, **<u>Kaixin Ma*</u>**, Yixuan Geng, Eric Nyberg <br>
   MRQA@EMNLP 2019 \[[pdf](https://aclanthology.org/D19-5818.pdf)\] 
 
 * ElderReact: A Multimodal Dataset For Recognizing Emotional Response in Aging Adults <br>
