@@ -7,7 +7,7 @@ author_profile: true
 
 * Open-domain Question Answering via Chain of Reasoning over Heterogeneous Knowledge <br>
   **<u>Kaixin Ma*</u>**, Hao Cheng*, Xiaodong Liu, Eric Nyberg, Jianfeng Gao <br>
-  Findings of EMNLP 2022 <br>
+  Findings of EMNLP 2022 \[[pdf](/files/EMNLP22_camera_ready.pdf)\] \[[code](https://github.com/Mayer123/UDT-QA)\]
 
 * Coalescing Global and Local Information for Procedural Text Understanding <br>
   **<u>Kaixin Ma</u>**, Filip Ilievski, Jonathan Francis, Eric Nyberg, Alessandro Oltramari <br>
