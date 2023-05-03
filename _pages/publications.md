@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Chain-of-Skills: A Configurable Model for Open-domain Question Answering <br>
+  **<u>Kaixin Ma*</u>**, Hao Cheng*, Yu Zhang, Xiaodong Liu, Eric Nyberg, Jianfeng Gao <br>
+  ACL 2023 
+
+* Transferring Procedural Knowledge across Commonsense Tasks <br>
+  Yifan Jiang, Filip Ilievski, **<u>Kaixin Ma*</u>**<br>
+  arxiv preprint 2023 \[[pdf](https://arxiv.org/pdf/2304.13867.pdf)\] 
+
 * Open-domain Question Answering via Chain of Reasoning over Heterogeneous Knowledge <br>
   **<u>Kaixin Ma*</u>**, Hao Cheng*, Xiaodong Liu, Eric Nyberg, Jianfeng Gao <br>
   Findings of EMNLP 2022 \[[pdf](/files/EMNLP22_camera_ready.pdf)\] \[[code](https://github.com/Mayer123/UDT-QA)\]
@@ -58,3 +66,7 @@ Patents
 * Knowledge-Driven and Self-Supervised System for Question-Answering <br>
   Alessandro Oltramari, Jonathan Francis, **<u>Kaixin Ma</u>**, Filip Ilievski <br>
   (Filed US Patent App. 17/091,499)
+
+* Computerized Question Answering Based on Evidence Chains <br>
+  Hao Cheng, Xiaodong Liu, Jianfeng Gao, **<u>Kaixin Ma</u>** <br>
+  (In prep.)
