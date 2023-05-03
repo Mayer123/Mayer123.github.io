@@ -10,7 +10,7 @@ author_profile: true
   ACL 2023 
 
 * Transferring Procedural Knowledge across Commonsense Tasks <br>
-  Yifan Jiang, Filip Ilievski, **<u>Kaixin Ma*</u>**<br>
+  Yifan Jiang, Filip Ilievski, **<u>Kaixin Ma</u>**<br>
   arxiv preprint 2023 \[[pdf](https://arxiv.org/pdf/2304.13867.pdf)\] 
 
 * Open-domain Question Answering via Chain of Reasoning over Heterogeneous Knowledge <br>
