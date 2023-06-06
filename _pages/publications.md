@@ -7,7 +7,12 @@ author_profile: true
 
 * Chain-of-Skills: A Configurable Model for Open-domain Question Answering <br>
   **<u>Kaixin Ma*</u>**, Hao Cheng*, Yu Zhang, Xiaodong Liu, Eric Nyberg, Jianfeng Gao <br>
-  ACL 2023 
+  ACL 2023 \[[pdf](/files/ACL23_camera_ready.pdf)\] \[[code](https://github.com/Mayer123/UDT-QA)\]
+
+
+* A Study of Situational Reasoning for Traffic Understanding <br>
+  Jiarui Zhang, Filip Ilievski, **<u>Kaixin Ma</u>**, Aravinda Kollaa, Jonathan Francis, Alessandro Oltramari <br>
+  KDD 2023 \[[pdf](https://arxiv.org/pdf/2212.07798.pdf\] 
 
 * Transferring Procedural Knowledge across Commonsense Tasks <br>
   Yifan Jiang, Filip Ilievski, **<u>Kaixin Ma</u>**<br>
