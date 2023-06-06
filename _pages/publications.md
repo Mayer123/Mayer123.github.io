@@ -12,7 +12,7 @@ author_profile: true
 
 * A Study of Situational Reasoning for Traffic Understanding <br>
   Jiarui Zhang, Filip Ilievski, **<u>Kaixin Ma</u>**, Aravinda Kollaa, Jonathan Francis, Alessandro Oltramari <br>
-  KDD 2023 \[[pdf](https://arxiv.org/pdf/2212.07798.pdf)\] 
+  KDD 2023 \[[pdf](https://arxiv.org/pdf/2306.02520.pdf)\] 
 
 * Transferring Procedural Knowledge across Commonsense Tasks <br>
   Yifan Jiang, Filip Ilievski, **<u>Kaixin Ma</u>**<br>
