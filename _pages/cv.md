@@ -11,13 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Language and Information Technologies, Carnegie Mellon University, 2023 (expected)
+* Ph.D in Language and Information Technologies, Carnegie Mellon University, 2023 
 * M.S. in Language Technologies, Carnegie Mellon University, 2020
 * M.S. in Computer Science, Emory University, 2018
 * B.S. in Computer Science, Emory University, 2018
 
 Work experience
 ======
+* **Tencent AI Lab**, Bellevue, WA
+  * September 2023 - present
+  * Senior NLP Researcher
+
+* **Tencent AI Lab**, Bellevue, WA
+  * June 2023 - August 2023
+  * Research Intern 
+
 * **Microsoft Research**, Redmond, WA
   * May 2021 - August 2021, May 2022 - August 2022
   * Research Intern at Deep Learning Group
@@ -38,8 +46,9 @@ Award and Services
   * Operating System  (Spring 2018, Emory University)
   * System Programming (Fall 2017, Emory University)
 * Mentor 
+  * Data Science Capstone (Spring 2023 - Fall 2023, Carnegie Mellon University)
   * Data Science Capstone (Spring 2021 - Fall 2021, Carnegie Mellon University)
   * Data Science Capstone (Spring 2020 - Fall 2020, Carnegie Mellon University)
 * Reviewer
-  * AAAI 2023, EMNLP 2022, NAACL 2022, ACL 2022, COLING 2022 Semantic Web Journal 2021, ICMI 2020&2019
+  * NAACL 2024, COLING 2024, AAAI 2024, EMNLP 2023, ACL 2023, AAAI 2023, EMNLP 2022, NAACL 2022, ACL 2022, COLING 2022 Semantic Web Journal 2021, ICMI 2020&2019
 

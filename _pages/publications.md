@@ -5,10 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Dense X Retrieval: What Retrieval Granularity Should We Use? <br>
+  Tong Chen, Hongwei Wang, Sihao Chen, Wenhao Yu, **<u>Kaixin Ma</u>**<br>, Xinran Zhao, Hongming Zhang, Dong Yu
+  arxiv preprint \[[pdf](https://arxiv.org/pdf/2312.06648.pdf)\] 
+
+* Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models <br>
+  Wenhao Yu, Hongming Zhang, Xiaoman Pan, **<u>Kaixin Ma</u>**<br>, Hongwei Wang, Dong Yu
+  arxiv preprint \[[pdf](https://arxiv.org/pdf/2311.09210.pdf)\] 
+
+* LASER: LLM Agent with State-Space Exploration for Web Navigation <br>
+  **<u>Kaixin Ma</u>**<br>, Hongming Zhang, Hongwei Wang, Xiaoman Pan, Dong Yu
+  arxiv preprint \[[pdf](https://arxiv.org/pdf/2309.08172.pdf)\] 
+
+* BRAINTEASER: Lateral Thinking Puzzles for Large Language Models <br>
+  Yifan Jiang, Filip Ilievski, **<u>Kaixin Ma</u>**<br>, Zhivar Sourati
+  EMNLP 2023 \[[pdf](https://aclanthology.org/2023.emnlp-main.885.pdf)\] 
+
 * Chain-of-Skills: A Configurable Model for Open-domain Question Answering <br>
   **<u>Kaixin Ma*</u>**, Hao Cheng*, Yu Zhang, Xiaodong Liu, Eric Nyberg, Jianfeng Gao <br>
   ACL 2023 \[[pdf](/files/ACL23_camera_ready.pdf)\] \[[code](https://github.com/Mayer123/UDT-QA)\]
-
 
 * A Study of Situational Reasoning for Traffic Understanding <br>
   Jiarui Zhang, Filip Ilievski, **<u>Kaixin Ma</u>**, Aravinda Kollaa, Jonathan Francis, Alessandro Oltramari <br>
@@ -16,7 +31,7 @@ author_profile: true
 
 * Transferring Procedural Knowledge across Commonsense Tasks <br>
   Yifan Jiang, Filip Ilievski, **<u>Kaixin Ma</u>**<br>
-  arxiv preprint 2023 \[[pdf](https://arxiv.org/pdf/2304.13867.pdf)\] 
+  ECAI 2023 \[[pdf](https://arxiv.org/pdf/2304.13867.pdf)\] 
 
 * Open-domain Question Answering via Chain of Reasoning over Heterogeneous Knowledge <br>
   **<u>Kaixin Ma*</u>**, Hao Cheng*, Xiaodong Liu, Eric Nyberg, Jianfeng Gao <br>
