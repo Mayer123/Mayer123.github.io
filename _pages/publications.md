@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models <br>
+  Hongliang He, Wenlin Yao, **<u>Kaixin Ma</u>**, Wenhao Yu, Yong Dai, Hongming Zhang, Zhenzhong Lan, Dong Yu <br>
+  arxiv preprint \[[pdf](https://arxiv.org/pdf/2401.13919)\] 
+
 * Dense X Retrieval: What Retrieval Granularity Should We Use? <br>
   Tong Chen, Hongwei Wang, Sihao Chen, Wenhao Yu, **<u>Kaixin Ma</u>**, Xinran Zhao, Hongming Zhang, Dong Yu <br>
   arxiv preprint \[[pdf](https://arxiv.org/pdf/2312.06648.pdf)\] 
@@ -89,4 +93,4 @@ Patents
 
 * Computerized Question Answering Based on Evidence Chains <br>
   Hao Cheng, Xiaodong Liu, Jianfeng Gao, **<u>Kaixin Ma</u>** <br>
-  (In prep.)
+  (Filed US Patent App. 17/938,204)

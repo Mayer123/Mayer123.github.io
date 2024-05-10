@@ -29,12 +29,10 @@ Work experience
 * **Microsoft Research**, Redmond, WA
   * May 2021 - August 2021, May 2022 - August 2022
   * Research Intern at Deep Learning Group
-  * Mentor: [Hao Cheng](https://sites.google.com/site/hcheng2site)
 
 * **Bosch Research and Technology Center**, Pittsburgh, PA
   * May 2019 - August 2019, May 2020 - August 2020
   * Research Intern at Human-Machine Collaboration Team 
-  * Mentor: [Alessandro Oltramari](https://www.bosch.com/research/know-how/research-experts/alessandro-oltramari-ph-d/)
   
 Award and Services
 ======
@@ -50,5 +48,5 @@ Award and Services
   * Data Science Capstone (Spring 2021 - Fall 2021, Carnegie Mellon University)
   * Data Science Capstone (Spring 2020 - Fall 2020, Carnegie Mellon University)
 * Reviewer
-  * NAACL 2024, COLING 2024, AAAI 2024, EMNLP 2023, ACL 2023, AAAI 2023, EMNLP 2022, NAACL 2022, ACL 2022, COLING 2022 Semantic Web Journal 2021, ICMI 2020&2019
+  * ACL 2024, NAACL 2024, EACL 2024, COLING 2024, AAAI 2024, EMNLP 2023, ACL 2023, AAAI 2023, EMNLP 2022, NAACL 2022, ACL 2022, COLING 2022 Semantic Web Journal 2021, ICMI 2020&2019
 
