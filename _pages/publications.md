@@ -5,21 +5,37 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Cognitive kernel: An open-source agent system towards generalist autopilots <br>
+  Hongming Zhang*, Xiaoman Pan*, Hongwei Wang*, **<u>Kaixin Ma*</u>**, Wenhao Yu*, Dong Yu <br>
+  Arxiv 2024.09 \[[pdf](https://arxiv.org/abs/2409.10277)\] 
+
+* Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks <br>
+  Mengzhao Jia, Wenhao Yu, **<u>Kaixin Ma</u>**, Tianqing Fang, Zhihan Zhang, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu <br>
+  Arxiv 2024.10 \[[pdf](https://arxiv.org/abs/2410.01744)\] 
+
+* RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph <br>
+  Siru Ouyang, Wenhao Yu, **<u>Kaixin Ma</u>**, Zilin Xiao, Zhihan Zhang, Mengzhao Jia, Jiawei Han, Hongming Zhang, Dong Yu <br>
+  Arxiv 2024.10 \[[pdf](https://arxiv.org/abs/2410.14684)\] 
+
+* DSBench: How Far Are Data Science Agents to Becoming Data Science Experts? <br>
+  Liqiang Jing, Zhehui Huang, Xiaoyang Wang, Wenlin Yao, Wenhao Yu, **<u>Kaixin Ma</u>**, Hongming Zhang, Xinya Du, Dong Yu <br>
+  Arxiv 2024.09 \[[pdf](https://arxiv.org/abs/2409.07703)\] 
+
 * WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models <br>
   Hongliang He, Wenlin Yao, **<u>Kaixin Ma</u>**, Wenhao Yu, Yong Dai, Hongming Zhang, Zhenzhong Lan, Dong Yu <br>
-  arxiv preprint \[[pdf](https://arxiv.org/pdf/2401.13919)\] 
+  ACL 2024 \[[pdf](https://aclanthology.org/2024.acl-long.371.pdf)\] 
 
 * Dense X Retrieval: What Retrieval Granularity Should We Use? <br>
   Tong Chen, Hongwei Wang, Sihao Chen, Wenhao Yu, **<u>Kaixin Ma</u>**, Xinran Zhao, Hongming Zhang, Dong Yu <br>
-  arxiv preprint \[[pdf](https://arxiv.org/pdf/2312.06648.pdf)\] 
+  EMNLP 2024 \[[pdf](https://aclanthology.org/2024.emnlp-main.845.pdf)\] 
 
 * Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models <br>
   Wenhao Yu, Hongming Zhang, Xiaoman Pan, **<u>Kaixin Ma</u>**, Hongwei Wang, Dong Yu <br>
-  arxiv preprint \[[pdf](https://arxiv.org/pdf/2311.09210.pdf)\] 
+  EMNLP 2024 \[[pdf](https://aclanthology.org/2024.emnlp-main.813.pdf)\] 
 
 * LASER: LLM Agent with State-Space Exploration for Web Navigation <br>
   **<u>Kaixin Ma</u>**, Hongming Zhang, Hongwei Wang, Xiaoman Pan, Dong Yu <br>
-  arxiv preprint \[[pdf](https://arxiv.org/pdf/2309.08172.pdf)\] 
+  FMDM@Neurips 2023 \[[pdf](https://arxiv.org/pdf/2309.08172.pdf)\] 
 
 * BRAINTEASER: Lateral Thinking Puzzles for Large Language Models <br>
   Yifan Jiang, Filip Ilievski, **<u>Kaixin Ma</u>**, Zhivar Sourati <br>
